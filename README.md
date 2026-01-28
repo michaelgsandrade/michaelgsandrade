@@ -2,7 +2,7 @@
 **Analista de Dados | SQL • Power BI • Excel • PostgreSQL**
 
 📍 São Paulo - SP  
-🔗 [LinkedIn:](https://www.linkedin.com/in/michaelgsandrade/) 
+🔗 LinkedIn: [michaelgsandrade](https://www.linkedin.com/in/michaelgsandrade/) 
 
 
 ---
@@ -32,7 +32,7 @@ Diagnóstico de performance por empresa/região e análise dos principais motivo
 
 ## Contato
 - GitHub: https://github.com/whatevermic  
-- [LinkedIn:](https://www.linkedin.com/in/michaelgsandrade/)   
+- LinkedIn: https://www.linkedin.com/in/michaelgsandrade/
 
 
 
