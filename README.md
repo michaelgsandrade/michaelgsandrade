@@ -50,11 +50,16 @@ Diagnóstico de performance por **empresa/região** e análise dos principais **
 ## 🛠️ Tech Stack & Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-000000?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img alt="Python" height="38" src="https://cdn.simpleicons.org/python" />
+  &nbsp;&nbsp;
+  <img alt="PostgreSQL" height="38" src="https://cdn.simpleicons.org/postgresql" />
+  &nbsp;&nbsp;
+  <img alt="Microsoft SQL Server" height="38" src="https://cdn.simpleicons.org/microsoftsqlserver" />
+  &nbsp;&nbsp;
+  <img alt="Power BI" height="38" src="https://cdn.simpleicons.org/powerbi" />
+  &nbsp;&nbsp;
+  <img alt="Microsoft Excel" height="38" src="https://cdn.simpleicons.org/microsoftexcel" />
+  &nbsp;&nbsp;
+  <img alt="Google BigQuery" height="38" src="https://cdn.simpleicons.org/googlebigquery" />
 </p>
 
