@@ -1,9 +1,15 @@
-<div style="display: flex; align-items: center;">
-  <img src=https://avatars.githubusercontent.com/u/118789111?v=4 width="120" height="120" style="border-radius: 50%; margin-right: 20px;" alt="Michael Andrade Avatar">
+<div style="display:flex; align-items:center; gap:18px; margin-bottom: 14px;">
+  <img
+    src="https://avatars.githubusercontent.com/u/118789111?v=4"
+    width="160"
+    height="160"
+    style="border-radius:50%; border:2px solid #333;"
+    alt="Michael Andrade Avatar"
+  />
   <div>
-    <h1>Michael Andrade 👋</h1>
-    <p><b>Analista de Dados | SQL • Power BI • Excel • PostgreSQL</b></p>
-    <p>📍 São Paulo - SP | 🔗 LinkedIn: <a href="https://www.linkedin.com/in/michaelgsandrade/">michaelgsandrade</a></p>
+    <h1 style="margin:0;">Michael Andrade 👋</h1>
+    <p style="margin:6px 0 0 0;"><b>Analista de Dados | SQL • Power BI • Excel • SQL Server (SSMS) • PostgreSQL</b></p>
+    <p style="margin:6px 0 0 0;">📍 São Paulo - SP | 🔗 LinkedIn: <a href="https://www.linkedin.com/in/michaelgsandrade/">michaelgsandrade</a></p>
   </div>
 </div>
 
@@ -15,7 +21,7 @@ Estou construindo projetos de portfólio com cenários realistas para demonstrar
 ---
 
 ## Stack
-- **SQL / Banco:** PostgreSQL, SQL Server (SSMS)
+- **SQL / Banco:** SQL Server (SSMS), PostgreSQL
 - **BI:** Power BI (modelagem, DAX, visualização)
 - **Planilhas:** Excel
 - **Versionamento:** Git & GitHub
@@ -23,9 +29,10 @@ Estou construindo projetos de portfólio com cenários realistas para demonstrar
 ---
 
 ## Projetos em destaque
+
 ### 🚕 Dashboard Operacional (Power BI + SQL)
-Diagnóstico de performance por empresa/região e análise dos principais motivos de recusa, com insights e ações recomendadas.  
-➡️ Repositório: https://github.com/whatevermic/NOME_DO_REPO
+Diagnóstico de performance por **empresa/região** e análise dos principais **motivos de recusa**, com insights e ações recomendadas.  
+➡️ Repositório: https://github.com/whatevermic/motorista-app
 
 ### 📊 (Em produção)
 ➡️ https://github.com/whatevermic/...
@@ -33,16 +40,25 @@ Diagnóstico de performance por empresa/região e análise dos principais motivo
 ---
 
 ## Contato
-- GitHub: https://github.com/whatevermic  
+- GitHub: https://github.com/whatevermic  
 - LinkedIn: https://www.linkedin.com/in/michaelgsandrade/
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+## 🛠️ Tech Stack & Ferramentas
+<div style="display:flex; gap:10px; align-items:center; flex-wrap:wrap;">
+  <!-- Python -->
+  <img alt="Python" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Michael-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Michael-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Michael-Excel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">
-  <img align="center" alt="Michael-PowerBI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
+  <!-- PostgreSQL -->
+  <img alt="PostgreSQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+
+  <!-- Microsoft SQL Server -->
+  <img alt="Microsoft SQL Server" height="34" src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" />
+
+  <!-- Power BI -->
+  <img alt="Power BI" height="34" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+
+  <!-- Google BigQuery (SQL do Google) -->
+  <img alt="Google BigQuery" height="34" src="https://cdn.simpleicons.org/googlebigquery/669DF6" />
 </div>
