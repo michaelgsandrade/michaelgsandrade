@@ -54,13 +54,7 @@ Diagnóstico de performance por **empresa/região** e análise dos principais **
   <img alt="Python" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="PostgreSQL" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="SQL Server" height="34" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
-  
-  <!-- Power BI (amarelo) -->
-  <img alt="Power BI" height="34" src="https://cdn.simpleicons.org/powerbi/F2C811" />
-  
-  <!-- Excel (verde) -->
-  <img alt="Microsoft Excel" height="34" src="https://cdn.simpleicons.org/microsoftexcel/217346" />
-
+  <img alt="Power BI" height="34" src="https://www.svgrepo.com/show/354012/powerbi.svg" />
+  <img alt="Microsoft Excel" height="34" src="https://www.svgrepo.com/show/303372/microsoft-excel-2013-logo.svg" />
   <img alt="GitHub" height="34" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
-
