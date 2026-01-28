@@ -51,18 +51,16 @@ Diagnóstico de performance por **empresa/região** e análise dos principais **
 <h2>🛠️ Tech Stack & Ferramentas</h2>
 
 <p align="left">
-  <img alt="Python" height="36" src="https://cdn.simpleicons.org/python/white" />
+  <img alt="Python" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   &nbsp;&nbsp;
-  <img alt="PostgreSQL" height="36" src="https://cdn.simpleicons.org/postgresql/white" />
+  <img alt="PostgreSQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   &nbsp;&nbsp;
-  <img alt="Microsoft SQL Server" height="36" src="https://cdn.simpleicons.org/microsoftsqlserver/white" />
+  <img alt="SQL Server" height="36" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" />
   &nbsp;&nbsp;
-  <img alt="Power BI" height="36" src="https://cdn.simpleicons.org/powerbi/white" />
+  <img alt="Power BI" height="36" src="https://www.svgrepo.com/show/354012/powerbi.svg" />
   &nbsp;&nbsp;
-  <img alt="Microsoft Excel" height="36" src="https://cdn.simpleicons.org/microsoftexcel/white" />
+  <img alt="Excel" height="36" src="https://www.svgrepo.com/show/373589/excel.svg" />
   &nbsp;&nbsp;
-  <img alt="Google Colab" height="36" src="https://cdn.simpleicons.org/googlecolab/white" />
-  &nbsp;&nbsp;
-  <img alt="GitHub" height="36" src="https://cdn.simpleicons.org/github/white" />
+  <img alt="GitHub" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 </p>
 
