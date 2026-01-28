@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src=["Cole_o_Link_da_Sua_Foto_Aqui"](https://avatars.githubusercontent.com/u/118789111?v=4) width="120" height="120" style="border-radius: 50%; margin-right: 20px;" alt="Michael Andrade Avatar">
+  <img src=https://avatars.githubusercontent.com/u/118789111?v=4 width="120" height="120" style="border-radius: 50%; margin-right: 20px;" alt="Michael Andrade Avatar">
   <div>
     <h1>Michael Andrade 👋</h1>
     <p><b>Analista de Dados | SQL • Power BI • Excel • PostgreSQL</b></p>
