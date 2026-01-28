@@ -1,36 +1,20 @@
-# Michael Andrade 👋
-**Analista de Dados Júnior | SQL • Power BI • Excel • PostgreSQL**
+### Olá, eu sou o Michael! (aka Whatevermic) 👋
 
-📍 São Paulo - SP  
-🔗 LinkedIn: COLE_AQUI_SEU_LINK  
-✉️ E-mail: COLE_AQUI_SEU_EMAIL
+Sou de São Paulo, tenho 35 anos e sou um apaixonado por tecnologia em transição de carreira. Com background em Redes de Computadores e Pós-graduação em **Database & Business Intelligence**, atualmente estou focado em construir meu portfólio como **Analista de Dados**.
 
 ---
 
-## Sobre mim
-Estou construindo projetos de portfólio com cenários realistas para demonstrar habilidades em **extração (SQL)**, **modelagem e métricas (DAX)** e **visualização (Power BI)**, focando em diagnósticos operacionais e tomada de decisão.
+- 🔭 **Atualmente estou trabalhando em:** Projetos de análise de dados para compor meu portfólio.
+- 🌱 **Atualmente estou aprendendo:** Aprofundando conhecimentos em **Python, SQL e Power BI**.
+- 🎮 **Hobbies:** Quando não estou codando, estou na Twitch (**Whatevermic**) jogando FPS, RPGs ou Survival Horror (fã de carteirinha de *Resident Evil*, *Final Fantasy* e *Metal Gear*).
+- 📚 **Leitura:** Devorando o cânone oficial de *Star Wars* no meu Kindle.
+- ⚡ **Curiosidade:** Tenho 1,87m e uma regra de vida: **eu não como ovo**. 🚫🥚
 
 ---
 
-## Stack
-- **SQL / Banco:** PostgreSQL, SQL Server (SSMS)
-- **BI:** Power BI (modelagem, DAX, visualização)
-- **Planilhas:** Excel
-- **Versionamento:** Git & GitHub
+### 🛠️ Tech Stack & Ferramentas
 
----
-
-## Projetos em destaque
-### 🚕 Dashboard Operacional de Corridas (Power BI + SQL)
-Diagnóstico de performance por empresa/região e análise dos principais motivos de recusa, com insights e ações recomendadas.  
-➡️ Repositório: https://github.com/whatevermic/NOME_DO_REPO
-
-### 📊 (Seu próximo projeto)
-➡️ https://github.com/whatevermic/SEU_PROXIMO_REPO
-
----
-
-## Contato
-- GitHub: https://github.com/whatevermic  
-- LinkedIn: COLE_AQUI_SEU_LINK  
-- E-mail: COLE_AQUI_SEU_EMAIL
+<div style="display: inline_block"><br>
+  <img align="center" alt="Michael-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Michael-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Michael-Excel" height="30" width="40" src="
